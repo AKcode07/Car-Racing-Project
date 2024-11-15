@@ -34,9 +34,9 @@ A dynamic and competitive car racing game built using Python and Pygame. This ga
 
 1. Clone the repository:
 
-   ```
+  ```
    git clone https://github.com/AKcode07/Car-Racing-Project.git
-   ```
+  ```
 
 2. Navigate to the project directory:
 
